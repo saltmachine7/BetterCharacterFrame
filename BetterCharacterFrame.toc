@@ -1,0 +1,24 @@
+## Interface: 20400
+## Title: |cFF69CCF0Better|r|cFFFFFFFFCharacterFrame|r
+## Notes: Modern character stats frame with smart gear set management for TBC Anniversary.
+## Author: Saltmachine
+## Version: 1.4.42
+## IconTexture: Interface/AddOns/BetterCharacterFrame/icon
+## Category: Interface
+## SavedVariables: BetterCharacterFrameDB
+
+Core.lua
+DesignTokens.lua
+Stats.lua
+GearInspect.lua
+GearSets.lua
+WishlistData.lua
+Wishlist.lua
+Reputation.lua
+Skills.lua
+PvP.lua
+Currency.lua
+Pet.lua
+GUI.lua
+IconPicker.lua
+Options.lua
